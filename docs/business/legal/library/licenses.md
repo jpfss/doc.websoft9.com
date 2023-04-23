@@ -71,6 +71,10 @@ slug: /legal/licenses
 - Apache-2.0
 - https://github.com/apache/zookeeper/blob/master/LICENSE.txt
 
+#### APITable
+- AGPL v3
+- https://github.com/apitable/apitable/blob/develop/LICENSE
+
 #### Akeneo
 - OSL V3
 - https://github.com/akeneo/pim-community-standard/blob/master/LICENCE.txt
